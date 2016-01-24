@@ -10,7 +10,7 @@ import 'package:googleapis/customsearch/v1.dart' as search;
 
 // This is the pub custom search ID - available at:
 // https://github.com/dart-lang/pub-dartlang/blob/master/app/handlers/search.py
-final customSearchId = '009011925481577436976:h931xn2j7o0';
+final customSearchId = '017721495766422443716:p2onn-eo03k';
 
 // This is the API Key obtained from the Google Developers Console.
 final apiKey = 'AIzaSyCeheP0M-I9gE-lP683iIcLZBQUEpJudlQ';
